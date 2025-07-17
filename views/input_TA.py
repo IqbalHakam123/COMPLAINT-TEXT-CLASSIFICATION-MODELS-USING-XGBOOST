@@ -178,7 +178,7 @@ def app():
 
         with col1:
             st.markdown("### 📊 Distribusi Aduan vs Bukan")
-            fig, ax = plt.subplots(figsize=(3, 3))
+            fig, ax = plt.subplots(figsize=(2, 2))
             wedges, _, autotxt = ax.pie(
                 [n1, n2],
                 labels=["Aduan", "Bukan"],
