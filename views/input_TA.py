@@ -13,6 +13,9 @@ from collections import Counter
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
+for resource in ['stopwords', 'punkt', 'wordnet']:
+    nltk.download(resource)
+
 def app():
     vectorizer = joblib.load("model/vectorizer-fiks-1.pkl")
     xgb_model  = joblib.load("model/xgboost_model-fiks-1.pkl")
