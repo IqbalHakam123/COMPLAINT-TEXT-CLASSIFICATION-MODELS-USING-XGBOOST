@@ -12,7 +12,7 @@ from scipy.sparse import hstack
 from collections import Counter
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
-
+import nltk
 for resource in ['stopwords', 'punkt', 'wordnet']:
     nltk.download(resource)
 
