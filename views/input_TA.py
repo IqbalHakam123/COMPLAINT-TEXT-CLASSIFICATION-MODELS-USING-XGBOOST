@@ -14,13 +14,13 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
 def app():
-    vectorizer = joblib.load("/Users/iqbal/Documents/deploy-TA-Streamlit/model/vectorizer-fiks-1.pkl")
-    xgb_model  = joblib.load("/Users/iqbal/Documents/deploy-TA-Streamlit/model/xgboost_model-fiks-1.pkl")
+    vectorizer = joblib.load("/model/vectorizer-fiks-1.pkl")
+    xgb_model  = joblib.load("/model/xgboost_model-fiks-1.pkl")
     aduan_keywords = set(np.load(
-        "/Users/iqbal/Documents/deploy-TA-Streamlit/model/aduan_keywords-1.npy",
+        "/model/aduan_keywords-1.npy",
         allow_pickle=True
     ))
-    with open("/Users/iqbal/Documents/deploy-TA-Streamlit/source/booster.json", "r", encoding="utf-8") as f:
+    with open("/source/booster.json", "r", encoding="utf-8") as f:
         boost = json.load(f)
     booster_aduan = boost["booster_aduan"]
     booster_bukan = boost["booster_bukan_aduan"]
@@ -31,7 +31,7 @@ def app():
     def load_slang_dict():
         slang = {}
         try:
-            with open("/Users/iqbal/Documents/deploy-TA-Streamlit/source/slang-kamus.txt", "r", encoding="utf-8") as f:
+            with open("/source/slang-kamus.txt", "r", encoding="utf-8") as f:
                 for line in f:
                     k, v = line.strip().split(":")
                     slang[k] = v
@@ -43,7 +43,7 @@ def app():
     def load_senti_dict():
         senti = {}
         try:
-            with open("/Users/iqbal/Documents/deploy-TA-Streamlit/source/sentiwords_id.txt", "r", encoding="utf-8") as f:
+            with open("/source/sentiwords_id.txt", "r", encoding="utf-8") as f:
                 for line in f:
                     k, v = line.strip().split(":")
                     senti[k] = float(v)
