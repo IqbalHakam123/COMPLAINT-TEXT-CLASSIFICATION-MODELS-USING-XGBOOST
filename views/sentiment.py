@@ -13,13 +13,13 @@ from streamlit_extras.colored_header import colored_header
 
 from source.booster_utils import load_booster_config, is_booster_aduan as token_regex_booster
 
-BOOSTER_JSON_PATH = "/source/booster.json"
-BOOSTER_CONFIG_PATH = "/source/booster_config.json"
-VECT_PATH = "/model/vectorizer-fiks-1.pkl"
-XGB_PATH = "/model/xgboost_model-fiks-1.pkl"
-KEYW_PATH = "/model/aduan_keywords-1.npy"
-SLANG_PATH = "/source/slang-kamus.txt"
-SENTI_PATH = "/source/sentiwords_id.txt"
+BOOSTER_JSON_PATH = "source/booster.json"
+BOOSTER_CONFIG_PATH = "source/booster_config.json"
+VECT_PATH = "model/vectorizer-fiks-1.pkl"
+XGB_PATH = "model/xgboost_model-fiks-1.pkl"
+KEYW_PATH = "model/aduan_keywords-1.npy"
+SLANG_PATH = "source/slang-kamus.txt"
+SENTI_PATH = "source/sentiwords_id.txt"
 THRESHOLD = 0.4
 
 @st.cache_data
