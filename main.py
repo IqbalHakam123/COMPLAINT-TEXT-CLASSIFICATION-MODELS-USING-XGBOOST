@@ -181,7 +181,7 @@ if page == "about":
     # left column: image wrapped in .mobile-img for centering on mobile
     with col1:
         st.markdown('<div class="mobile-img">', unsafe_allow_html=True)
-        st.image("/Users/iqbal/Documents/deploy-TA-Streamlit/images/www.jpg", width=800, use_container_width=False)
+        st.image("/images/www.jpg", width=800, use_container_width=False)
         st.markdown('</div>', unsafe_allow_html=True)
 
     # right column: title, description, buttons
