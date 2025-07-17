@@ -1,0 +1,1091 @@
+gak:tidak
+ga:tidak
+nggak:tidak
+g:tidak
+kagak:tidak
+enggak:tidak
+ndak:tidak
+ngak:tidak
+ra:tidak
+ora:tidak
+hadeh:aduh
+duh:aduh
+haduh:aduh
+waduh:aduh
+rosak:rusak
+ya:iya
+y:ya
+iy:iya
+iye:iya
+iya dong:iya
+yoi:iya
+yes:iya
+ok:ok
+okidoki:iya
+krg:kurang
+kurng:kurang
+kuragan:kurang
+krng:kurang
+blm:belum
+belom:belum
+blom:belum
+belon:belum
+tlg:tolong
+ngiyup:teduh
+jl:jalan
+kek:seperti
+dg:dengan
+dgn:dengan
+bgt:banget
+jgn:jangan
+tulung:tolong
+nabrak:tabrak
+dueress:deras
+deres:deras
+sby:surabaya
+akeh:banyak
+duwit:uang
+duwek:uang
+duwik:uang
+jingan:bajingan
+cuk:jancuk
+jnck:jancuk
+fck:fuck
+cvk:jancuk
+blok:goblok
+goblog:goblok
+kanggo:berguna
+bgst:bangsat
+gendeng:gila
+gwendeng:gila
+ojok:jangan
+ojo:jangan
+nggilani:jijik
+gilo:jijik
+eror:error
+tai:tahi
+taek:tahi
+telek:tahi
+bis:bus
+kenceng:kencang
+biss:bus
+ngguling:guling
+curanmor:pencurian kendaraan bermotor
+ramai:rame
+laka:kecelakaan
+lakalantas:kecelakaan lalu lintas
+peda:sepeda
+yg:yang
+@:di
+abg:remaja
+abis:habis
+ad:ada
+adlh:adalah
+afaik:as far as i know
+aga:agak
+agk:agak
+ahaha:haha
+aj:saja
+ajep-ajep:dunia gemerlap
+ak:saya
+akika:aku
+akkoh:aku
+akuwh:aku
+alay:norak
+alow:halo
+ambilin:ambilkan
+ampe:sampai
+ancur:hancur
+anjrit:anjing
+anter:antar
+ap2:apa-apa
+apasih:apa sih
+apes:sial
+aps:apa
+aq:saya
+aquwh:aku
+asbun:asal bunyi
+aseekk:asyik
+asekk:asyik
+asem:asam
+aspal:asli tetapi palsu
+astul:asal tulis
+ato:atau
+au ah:tidak mau tahu
+awak:saya
+ay:sayang
+ayank:sayang
+b4:sebelum
+bakalan:akan
+bandes:bantuan desa
+bangedh:banget
+banpol:bantuan polisi
+banpur:bantuan tempur
+barng:barang
+basbang:basi
+batrai:baterai
+bcanda:bercanda
+bd:beda
+bdg:bandung
+begajulan:nakal
+beliin:belikan
+bencong:banci
+bentar:sebentar
+ber3:bertiga
+beresin:membereskan
+bete:bosan
+beud:banget
+bg:abang
+bgini:begini
+bgmn:bagaimana
+bget:banget
+bgtsi:banget sih
+bgus:bagus
+bijimane:bagaimana
+bintal:bimbingan mental
+bjr:anjing
+bkl:akan
+bknnya:bukannya
+blegug:bodoh
+blh:boleh
+bli:beli
+bln:bulan
+blum:belum
+bnci:benci
+bnget:banget
+bnran:beneran
+bntang:bintang
+bntu:bantu
+bodor:lucu
+bokap:ayah
+boker:buang air besar
+bokis:bohong
+boljug:boleh juga
+bonek:bocah nekat
+boyeh:boleh
+br:baru
+brantakan:berantakan
+brg:barang
+brgnya:barangnya
+brisik:berisik
+bro:saudara laki-laki
+brodol:sobek
+bru:baru
+bs:bisa
+bsen:bosan
+bt:buat
+btw:ngomong-ngomong
+buaya:tidak setia
+bubbu:tidur
+bubu:tidur
+bumil:ibu hamil
+bw:bawa
+bwt:buat
+byk:banyak
+byrin:bayarkan
+cabal:sabar
+cadas:keren
+calo:makelar
+can:belum
+capcus:pergi
+caper:cari perhatian
+ce:cewek
+cekal:cegah tangkal
+cemen:penakut
+cengengesan:tertawa
+cepet:cepat
+cew:cewek
+chuyunk:sayang
+cimeng:ganja
+cipika cipiki:cium pipi kanan cium pipi kiri
+ciyh:sih
+ckepp:cakep
+ckp:cakep
+co:checkout
+cmiiw:correct me if i'm wrong
+cmn:cuma
+cmpur:campur
+cong:banci
+conlok:cinta lokasi
+cowwyy:maaf
+ccok:cocok
+cp:siapa
+cpe:capek
+cpet:cepat
+cppe:capek
+cucok:cocok
+cuex:cuek
+cuman:cuma
+cumi:Cuma miscall
+cups:culun
+curcol:curahan hati colongan
+cwek:cewek
+cyin:cinta
+d:di
+dah:deh
+dapet:dapat
+dateng:datang
+dbls:dibalas
+de:adik
+dek:adik
+demen:suka
+deyh:deh
+dh:sudah
+diem:diam
+diancurin:dihancurkan
+dimaafin:dimaafkan
+dimintak:diminta
+dipake:dipakai
+disono:di sana
+dket:dekat
+dkk:dan kawan-kawan
+dll:dan lain-lain
+dlm:dalam
+dl:dulu
+dlu:dulu
+dluan:duluan
+dngn:dengan
+dngan:dengan
+dodol:bodoh
+doku:uang
+dongs:dong
+dpt:dapat
+dr:dari
+dri:dari
+drmn:darimana
+drtd:dari tadi
+dst:dan seterusnya
+dtang:datang
+dteng:datang
+dtg:datang
+dtng:datang
+duren:durian
+dmn:dimana
+ed:edisi
+egp:emang gue pikirin
+eke:aku
+elu:kamu
+emg:memang
+emangnya:memangnya
+emng:memang
+endak:tidak
+engk:tidak
+engga:tidak
+envy:iri
+ex:mantan
+fax:facsimile
+fifo:first in first out
+folbek:follow back
+fyi:sebagai informasi
+gadikasih:tidak dikasih
+gaada:tidak ada
+gag:tidak
+gaje:tidak jelas
+gajelas:tidak jelas
+gak papa:tidak apa-apa
+gaapa:tidak apa-apa
+gan:juragan
+gaptek:gagap teknologi
+gatek:gagap teknologi
+gawe:kerja
+gbs:tidak bisa
+gda:tidak ada
+gebetan:orang yang disuka
+geje:tidak jelas
+gepeng:gelandangan dan pengemis
+ghiy:lagi
+gile:gila
+gimn:bagaimana
+gimna:bagaimana
+gimana:bagaimana
+gino:gigi nongol
+githu:gitu
+gj:tidak jelas
+gk:tidak
+gmbr:gambar
+gmn:bagaimana
+gmna:bagaimana
+gmana:bagaimana
+gn:begini
+gnti:ganti
+goblok:bodoh
+golput:golongan putih
+gowes:mengayuh sepeda
+gpny:tidak punya
+gr:gede rasa
+gretongan:gratisan
+gtau:tidak tahu
+gua:saya
+guoblok:goblok
+gw:saya
+ha:tertawa
+haha:tertawa
+hallow:halo
+hankam:pertahanan dan keamanan
+hbs:habis
+hehe:he
+helo:halo
+hey:hai
+hlm:halaman
+hny:hanya
+hoax:isu bohong
+hr:hari
+hrg:harga
+hrgnya:harganya
+hrga:harga
+hrus:harus
+hubdar:perhubungan darat
+huff:mengeluh
+hum:rumah
+humz:rumah
+ilang:hilang
+ilfil:tidak suka
+imho:in my humble opinion
+imoetz:imut
+item:hitam
+itungan:hitungan
+ja:saja
+jadiin:jadi
+jaim:jaga image
+jayus:tidak lucu
+jdi:jadi
+jem:jam
+jga:juga
+jgnkan:jangankan
+jir:anjing
+jln:jalan
+jlk:jelek
+jomblo:tidak punya pacar
+jubir:juru bicara
+jutek:galak
+nasgor:nasi goreng
+nda:tidak
+ndiri:sendiri
+ne:ini
+nekolin:neokolonialisme
+nembak:menyatakan cinta
+ngabuburit:menunggu berbuka puasa
+nga:tidak
+ngk:tidak
+ngaku:mengaku
+ngambil:mengambil
+nganggur:tidak punya pekerjaan
+ngapah:kenapa
+ngaret:terlambat
+ngasih:memberikan
+ngebandel:berbuat bandel
+ngegosip:bergosip
+ngeklaim:mengklaim
+ngeksis:menjadi eksis
+ngeles:berkilah
+ngelidur:menggigau
+ngerampok:merampok
+ngga:tidak
+nggada:tidak ada
+ngibul:berbohong
+ngiler:mau
+ngiri:iri
+ngisiin:mengisikan
+ngmng:bicara
+ngomong:bicara
+ngubek2:mencari-cari
+ngurus:mengurus
+nie:ini
+nih:ini
+niyh:nih
+nmr:nomor
+nnt:nanti
+nntn:nonton
+nobar:nonton bareng
+np:now playing
+ntar:nanti
+ntn:nonton
+numpuk:bertumpuk
+nutupin:menutupi
+nyari:mencari
+nyekar:menyekar
+nyicil:mencicil
+nyoblos:mencoblos
+nyokap:ibu
+ogah:tidak mau
+ol:online
+ongkir:ongkos kirim
+oot:out of topic
+org2:orang-orang
+ortu:orang tua
+otda:otonomi daerah
+otw:on the way
+pacal:pacar
+padhal:padahal
+padahl:padahal
+pake:pakai
+pala:kepala
+pansus:panitia khusus
+parpol:partai politik
+pasutri:pasangan suami istri
+pd:pada
+pdhl:padahal
+pdahal:padahal
+pede:percaya diri
+pelatnas:pemusatan latihan nasional
+pemda:pemerintah daerah
+pemkot:pemerintah kota
+pemred:pemimpin redaksi
+penjas:pendidikan jasmani
+perda:peraturan daerah
+perhatiin:perhatikan
+pesen:pesan
+pesenan:pesanan
+pgang:pegang
+pi:tapi
+pilkada:pemilihan kepala daerah
+pisan:sangat
+pk:penjahat kelamin
+pke:pakai
+plg:paling
+pmrnth:pemerintah
+polantas:polisi lalu lintas
+ponpes:pondok pesantren
+pp:pulang pergi
+prg:pergi
+prnh:pernah
+psen:pesan
+pst:pasti
+pswt:pesawat
+pw:posisi nyaman
+qmu:kamu
+rakor:rapat koordinasi
+ranmor:kendaraan bermotor
+rapih:rapi
+re:reply
+ref:referensi
+rehab:rehabilitasi
+rempong:sulit
+repp:balas
+restik:reserse narkotika
+rhs:rahasia
+rmh:rumah
+ru:baru
+ruko:rumah toko
+rusunawa:rumah susun sewa
+ruz:terus
+saia:saya
+salting:salah tingkah
+sampe:sampai
+sampek:sampai
+samsek:sama sekali
+sapose:siapa
+satpam:satuan pengamanan
+sbb:sebagai berikut
+sbh:sebuah
+sblh:sebelah
+sblm:sebelum
+sbnrnya:sebenarnya
+sbnrny:sebenarnya
+scr:secara
+sdg:sedang
+sdgkn:sedangkan
+sdh:sudah
+sdkt:sedikit
+se7:setuju
+sebelas dua belas:mirip
+sembako:sembilan bahan pokok
+sempet:sempat
+sendratari:seni drama tari
+sgt:sangat
+sgtu:segitu
+shg:sehingga
+siech:sih
+sikon:situasi dan kondisi
+sinetron:sinema elektronik
+siramin:siramkan
+sj:saja
+sja:saja
+skali:sekali
+skalian:sekalian
+sklh:sekolah
+skrg:sekarang
+skrng:sekarang
+skrang:sekarang
+skt:sakit
+slesai:selesai
+slh:salah
+sll:selalu
+sllu:selalu
+slalu:selalu
+slma:selama
+slama:selama
+slsai:selesai
+sm:sama
+smga:semoga
+smoga:semoga
+smpai:sampai
+smpe:sampai
+smpenya:sampainya
+smpek:sampai
+smpt:sempat
+smw:semua
+sndiri:sendiri
+soljum:sholat jumat
+songong:sombong
+sory:maaf
+sosek:sosial-ekonomi
+sotoy:sok tahu
+spa:siapa
+spatu:sepatu
+sppa:siapa
+sperti:seperti
+spt:seperti
+sptnya:sepertinya
+srtfkt:sertifikat
+stiap:setiap
+stlh:setelah
+suk:masuk
+sumpek:sempit
+swara:suara
+sya:saya
+syg:sayang
+t4:tempat
+tajir:kaya
+tau:tahu
+taw:tahu
+td:tadi
+tdk:tidak
+teh:kakak perempuan
+telat:terlambat
+telmi:telat berpikir
+temen:teman
+tengil:menyebalkan
+tepar:terkapar
+tggu:tunggu
+thankz:terima kasih
+thn:tahun
+thnks:terima kasih
+tilang:bukti pelanggaran
+tipiwan:TvOne
+tko:toko
+tks:terima kasih
+tlp:telepon
+tls:tulis
+tmbah:tambah
+tmen2:teman-teman
+tmpah:tumpah
+tmpt:tempat
+tngu:tunggu
+tny:tanya
+tnyta:ternyata
+tokai:tai
+toserba:toko serba ada
+tpi:tapi
+trdhulu:terdahulu
+trima:terima kasih
+trm:terima
+trmksh:terima kasih
+trs:terus
+trus:terus
+trutama:terutama
+trnyta:ternyata
+trpks:terpaksa
+ts:penulis
+tsb:tersebut
+tst:tahu sama tahu
+ttg:tentang
+ttp:tetap
+tuch:tuh
+tuir:tua
+tw:tahu
+u:kamu
+ud:sudah
+udh:sudah
+uda:sudah
+udah:sudah
+ujg:ujung
+uk:ukuran
+ul:ulangan
+unyu:lucu
+uplot:unggah
+urang:saya
+usah:perlu
+utk:untuk
+valas:valuta asing
+w/:dengan
+wadir:wakil direktur
+wamil:wajib militer
+warkop:warung kopi
+warteg:warung tegal
+wat:buat
+wkt:waktu
+wtf:what the fuck
+xixixi:tertawa
+yap:iya
+yaudah:ya sudah
+yawdah:ya sudah
+yl:yang lain
+yo:iya
+yowes:ya sudah
+yup:iya
+7an:tujuan
+ababil:abg labil
+acc:accord
+adlah:adalah
+adoh:aduh
+aha:tertawa
+aing:saya
+aja:saja
+aje:saja
+ajj:saja
+aka:dikenal juga sebagai
+akko:aku
+akku:aku
+akyu:aku
+aljasa:asal jadi saja
+ama:sama
+ambl:ambil
+anjir:anjing
+ank:anak
+ap:apa
+apaan:apa
+ape:apa
+aplot:unggah
+apva:apa
+aqu:aku
+asap:sesegera mungkin
+aseek:asyik
+asek:asyik
+aseknya:asyiknya
+asoy:asyik
+astrojim:astagfirullahaladzim
+ath:kalau begitu
+atuh:kalau begitu
+ava:avatar
+aws:awas
+ayang:sayang
+ayok:ayo
+bacot:banyak bicara
+bales:balas
+bangdes:pembangunan desa
+bangkotan:tua
+banpres:bantuan presiden
+bansarkas:bantuan sarana kesehatan
+bazis:badan amal, zakat, infak, dan sedekah
+bcoz:karena
+beb:sayang
+bejibun:banyak
+bener:benar
+ber2:berdua
+berdikari:berdiri di atas kaki sendiri
+bet:banget
+beti:beda tipis
+beut:banget
+bgd:banget
+bgs:bagus
+bhubu:tidur
+bimbuluh:bimbingan dan penyuluhan
+bisi:kalau-kalau
+bkn:bukan
+bl:beli
+blg:bilang
+blgnya:bilangnya
+bls:balas
+bnchi:benci
+bngung:bingung
+bnyak:banyak
+bnyk:banyak
+bohay:badan aduhai
+bokep:porno
+bokin:pacar
+bole:boleh
+bolot:bodoh
+bonyok:ayah ibu
+bpk:bapak
+brb:segera kembali
+brng:barang
+brngkt:berangkat
+brp:berapa
+brrti:berarti
+brur:saudara laki-laki
+bsa:bisa
+bsk:besok
+bu_bu:tidur
+bubarin:bubarkan
+buber:buka bersama
+bujubune:luar biasa
+buser:buru sergap
+bwhn:bawahan
+byar:bayar
+byr:bayar
+c8:chat
+cabut:pergi
+caem:cakep
+cama-cama:sama-sama
+cangcut:celana dalam
+cape:capek
+caur:jelek
+cekak:tidak ada uang
+cekidot:coba lihat
+cemplungin:cemplungkan
+ceper:pendek
+ceu:kakak perempuan
+cewe:cewek
+cibuk:sibuk
+cin:cinta
+ciye:cie
+ckck:ck
+clbk:cinta lama bersemi kembali
+cmpr:campur
+cnenk:senang
+congor:mulut
+cow:cowok
+coz:karena
+cpa:siapa
+gokil:gila
+gombal:suka merayu
+gpl:tidak pakai lama
+gpp:tidak apa-apa
+gretong:gratis
+gt:begitu
+gtu:gitu
+gtw:tidak tahu
+gue:saya
+guys:teman-teman
+gws:cepat sembuh
+haghaghag:tertawa
+hakhak:tertawa
+handak:bahan peledak
+hansip:pertahanan sipil
+hellow:halo
+helow:halo
+hi:hai
+hlng:hilang
+hnya:hanya
+houm:rumah
+hrs:harus
+hubad:hubungan angkatan darat
+hubla:perhubungan laut
+huft:mengeluh
+humas:hubungan masyarakat
+idk:saya tidak tahu
+ilfeel:tidak suka
+imba:jago sekali
+imoet:imut
+info:informasi
+itung:hitung
+isengin:bercanda
+iyala:iya lah
+iyo:iya
+jablay:jarang dibelai
+jadul:jaman dulu
+jancuk:anjing
+jd:jadi
+jngn:jangan
+jdikan:jadikan
+jg:juga
+jijay:jijik
+jkt:jakarta
+jnj:janji
+jth:jatuh
+jurdil:jujur adil
+jwb:jawab
+ka:kakak
+kabag:kepala bagian
+kacian:kasihan
+kadit:kepala direktorat
+kaga:tidak
+kaka:kakak
+kamtib:keamanan dan ketertiban
+kamuh:kamu
+kamyu:kamu
+kapt:kapten
+kasat:kepala satuan
+kasubbid:kepala subbidang
+kau:kamu
+kbar:kabar
+kcil:kecil
+kcian:kasihan
+keburu:terlanjur
+kedubes:kedutaan besar
+keknya:kayaknya
+keliatan:kelihatan
+keneh:masih
+kepikiran:terpikirkan
+kepo:mau tahu urusan orang
+kere:tidak punya uang
+kesian:kasihan
+kasi:kasih
+ketauan:ketahuan
+keukeuh:keras kepala
+khan:kan
+kibus:kaki busuk
+kk:kakak
+klian:kalian
+klu:kalau
+kluar:keluar
+klo:kalau
+kluarga:keluarga
+klwrga:keluarga
+kmari:kemari
+kmpus:kampus
+kn:kan
+knl:kenal
+knpa:kenapa
+kog:kok
+kompi:komputer
+komtiong:komunis Tiongkok
+konjen:konsulat jenderal
+koq:kok
+kpd:kepada
+kptsan:keputusan
+krik:garing
+krn:karena
+krna:karena
+ksh:kasih
+ksih:kasih
+ktauan:ketahuan
+ktny:katanya
+kudu:harus
+kuq:kok
+ky:seperti
+kykny:kayanya
+lambreta:lambat
+lansia:lanjut usia
+lapas:lembaga pemasyarakatan
+lptop:laptop
+lptp:laptop
+lbur:libur
+lekong:laki-laki
+lg:lagi
+lgkp:lengkap
+lht:lihat
+linmas:perlindungan masyarakat
+lmyan:lumayan
+lngkp:lengkap
+lngsung:langsung
+loch:loh
+lol:tertawa
+lom:belum
+loupz:cinta
+lowh:kamu
+lu:kamu
+luchu:lucu
+luff:cinta
+luph:cinta
+lw:kamu
+lwt:lewat
+maaciw:terima kasih
+mabes:markas besar
+macem-macem:macam-macam
+madesu:masa depan suram
+maen:main
+mahatma:maju sehat bersama
+mak:ibu
+makasih:terima kasih
+malah:bahkan
+malu2in:memalukan
+mamz:makan
+manies:manis
+mantep:mantap
+mantul:mantap betul
+markus:makelar kasus
+mba:mbak
+mending:lebih baik
+mgkn:mungkin
+mhn:mohon
+mhon:mohon
+miker:minuman keras
+milis:mailing list
+mksd:maksud
+mksi:terima kasih
+mls:malas
+mnt:minta
+mntp:mantap
+moga:semoga
+moge:motor gede
+mokat:mati
+mosok:masa
+msh:masih
+mskpn:meskipun
+msng2:masing-masing
+muahal:mahal
+muker:musyawarah kerja
+mumet:pusing
+muna:munafik
+munaslub:musyawarah nasional luar biasa
+musda:musyawarah daerah
+muup:maaf
+muuv:maaf
+nal:kenal
+nangis:menangis
+naon:apa
+napol:narapidana politik
+naq:anak
+narsis:bangga pada diri sendiri
+nax:anak
+ndut:gendut
+nekolim:neokolonialisme
+nelfon:menelepon
+ngabis2in:menghabiskan
+ngakak:tertawa
+ngambek:marah
+ngampus:pergi ke kampus
+ngantri:mengantri
+ngapain:sedang apa
+ngaruh:berpengaruh
+ngawur:berbicara sembarangan
+ngeceng:kumpul bareng-bareng
+ngeh:sadar
+ngekos:tinggal di kos
+ngelamar:melamar
+ngeliat:melihat
+ngemeng:bicara terus-terusan
+ngerti:mengerti
+ngikut:ikut
+nginep:menginap
+ngisi:mengisi
+ngmg:bicara
+ngocol:lucu
+ngomongin:membicarakan
+ngumpul:berkumpul
+ni:ini
+nyasar:tersesat
+nyariin:mencari
+nyiapin:mempersiapkan
+nyiram:menyiram
+nyok:ayo
+o/:oleh
+priksa:periksa
+pro:profesional
+psn:pesan
+psti:pasti
+puanas:panas
+qc:quality check
+qmo:kamu
+qt:kita
+rame:ramai
+raskin:rakyat miskin
+red:redaksi
+reg:register
+rejeki:rezeki
+renstra:rencana strategis
+reskrim:reserse kriminal
+sni:sini
+somse:sombong sekali
+sorry:maaf
+sosbud:sosial-budaya
+sospol:sosial-politik
+sowry:maaf
+spd:sepeda
+sprti:seperti
+spy:supaya
+spya:supaya
+stelah:setelah
+subbag:subbagian
+sudh:sudah
+sumbangin:sumbangkan
+sy:saya
+syp:siapa
+tabanas:tabungan pembangunan nasional
+tar:nanti
+taun:tahun
+tawh:tahu
+tdi:tadi
+te2p:tetap
+tekor:rugi
+telkom:telekomunikasi
+telp:telepon
+temen2:teman-teman
+tengok:menjenguk
+terbitin:terbitkan
+tgl:tanggal
+thsx:terima kasih
+thanks:terima kasih
+thd:terhadap
+thx:terima kasih
+tipi:TV
+tkg:tukang
+tll:terlalu
+tlpn:telepon
+tman:teman
+tmbh:tambah
+tmn2:teman-teman
+tmph:tumpah
+tnda:tanda
+tnh:tanah
+togel:toto gelap
+tp:tapi
+tq:terima kasih
+trgntg:tergantung
+trims:terima kasih
+cb:coba
+munfik:munafik
+reklamuk:reklamasi
+sma:sama
+tren:trend
+ngehe:kesal
+mz:mas
+analisise:analisis
+sadaar:sadar
+sept:september
+nmenarik:menarik
+zonk:bodoh
+rights:benar
+simiskin:miskin
+ngumpet:sembunyi
+hardcore:keras
+akhirx:akhirnya
+solve:solusi
+watuk:batuk
+ngebully:intimidasi
+masy:masyarakat
+still:masih
+tauk:tahu
+mbual:bual
+tioghoa:tionghoa
+ngentotin:senggama
+kentot:senggama
+faktakta:fakta
+sohib:teman
+rubahnn:rubah
+trlu:terlalu
+trllu:terlalu
+trlalu:terlalu
+nyela:cela
+heters:pembenci
+nyembah:sembah
+most:paling
+ikon:lambang
+light:terang
+pndukung:pendukung
+pngiriman:pengiriman
+setting:atur
+seting:akting
+next:lanjut
+waspadalah:waspada
+gantengsaya:ganteng
+parte:partai
+nyerang:serang
+nipu:tipu
+ktipu:tipu
+jentelmen:berani
+buangbuang:buang
+tsangka:tersangka
+ista:nista
+less:kurang
+koar:teriak
+paranoid:takut
+problem:masalah
+tahi:kotoran
+tirani:tiran
+tilep:tilap
+happy:bahagia
+tak:tidak
+penertiban:tertib
+uasai:kuasa
+mnolak:tolak
+trending:trend
+taik:tahi
+wkwkkw:tertawa
+ahokncc:ahok
+istaa:nista
+benarjujur:jujur
+mgkin:mungkin
+tlng:tolong
