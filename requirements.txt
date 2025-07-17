@@ -11,4 +11,4 @@ streamlit_extras==0.7.5
 vaderSentiment==3.3.2
 wordcloud==1.9.4
 xgboost==2.0.3
-rich==13.7.1
+rich==10.14.0
