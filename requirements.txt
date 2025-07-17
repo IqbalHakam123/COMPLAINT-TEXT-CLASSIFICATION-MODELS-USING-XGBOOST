@@ -10,3 +10,4 @@ scipy==1.16.0
 streamlit==1.42.2
 streamlit_extras==0.7.5
 wordcloud==1.9.4
+rich==13.7.1
